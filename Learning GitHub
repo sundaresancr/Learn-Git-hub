@@ -1,15 +1,25 @@
 First Learnings of GitHub usage
-Choose the repository 
-Step 1: Create a Branch
-Step 2: Update the file with changes under this branch
-Step 3: Commit the changes (Save the changes) 
-Step 4: Open a pull request
-Step 5: Initiate the using the button "New Pull Request"
-Step 6: View the difference to review the changes
-Step 6: Create pull Request using the button "Create pull Request"
-Step 7: Add the pull request and press the button "Create pull Request"
-Step 8: Merge the pull request to the main branch using the button "Merge the pull request"
-Step 9: Press the button "Confirm Merge"
-Step 10: Delete the branch by pressing the button "Delete Branch" on seeing the message "Pull request successfully merged and closed"
-Step 12 : Add the comment
-Step 13: open the repository , open the file and you can see the changes merged to main branch
+
+
+First Choose the repository
+
+If you want to make changes in the main branch 
+  Step 1: Open the file
+  Step 2: Edit in your changes
+  Step 3: Commit the changes to the main branch.
+   
+   
+if you want to make changes in a Branch 
+  Step 1: Create a Branch
+  Step 2: Update the file with changes under this branch
+  Step 3: Commit the changes (Save the changes) 
+  Step 4: Open a pull request
+  Step 5: Initiate the using the button "New Pull Request"
+  Step 6: View the difference to review the changes
+  Step 6: Create pull Request using the button "Create pull Request"
+  Step 7: Add the pull request and press the button "Create pull Request"
+  Step 8: Merge the pull request to the main branch using the button "Merge the pull request"
+  Step 9: Press the button "Confirm Merge"
+  Step 10: Delete the branch by pressing the button "Delete Branch" on seeing the message "Pull request successfully merged and closed"
+  Step 12 : Add the comment
+  Step 13: open the repository , open the file and you can see the changes merged to main branch
