@@ -1,0 +1,20 @@
+Create a folder
+Open git bash (terminal) with right click inside teh folder 
+
+use git init command to create the repository
+git init 
+
+
+git remote add origin "https://github.com/sundaresancr/Hello-world.git"
+
+git pull origin master  --> Not working
+
+
+Git Repo ----> https://github.com/sundaresancr/Learn-Git-hub.git
+Git Repo1 ---> https://github.com/sundaresancr/Hello-world.git
+
+git clone https://github.com/sundaresancr/Learn-Git-hub.git
+
+git status
+
+git remote show origin
