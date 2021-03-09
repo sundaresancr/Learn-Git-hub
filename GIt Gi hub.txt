@@ -28,4 +28,11 @@ git commit -m "<message>"    Git commit command takes a snapshot representing th
 
 git push  Git push command moves the changes from the local repository to a remote server.
 
+Git Commit Command: Summary
+The Git committing process requires several steps: moving changes to the staging area and saving them with the commit command.
+Once you move the changes to the local repository by using Git commit command, you can use Git push to transfer them to a remote repository.
 
+
+git log  
+
+diplays details of commit log , The list will appear on an editor. to turnoff teh new window, pleae use q to quit the editor
