@@ -1,5 +1,5 @@
 Create a folder
-Open git bash (terminal) with right click inside teh folder 
+Open git bash (terminal) with right click inside the folder 
 
 use git init command to create the repository
 git init 
@@ -9,12 +9,23 @@ git remote add origin "https://github.com/sundaresancr/Hello-world.git"
 
 git pull origin master  --> Not working
 
-
-Git Repo ----> https://github.com/sundaresancr/Learn-Git-hub.git
-Git Repo1 ---> https://github.com/sundaresancr/Hello-world.git
-
 git clone https://github.com/sundaresancr/Learn-Git-hub.git
+
+Edit file of the repository and save it
+Close the editor
 
 git status
 
-git remote show origin
+You will notice in command prompt file name modified in red colour letter
+
+git add -u ( The Git add command moves changes to the staging area.)
+
+git status 
+
+You will notice in command prompt file name modified in green colour letter
+
+git commit -m "<message>"    Git commit command takes a snapshot representing the staged changes.
+
+git push  Git push command moves the changes from the local repository to a remote server.
+
+
